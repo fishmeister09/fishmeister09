@@ -6,7 +6,7 @@
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
-<h3 align="center">Here's the languages that I am currently working on:</h3>
+<h3 align="left">Here's the languages that I am currently working on:</h3>
 
 
 <p align="center">  
@@ -22,4 +22,10 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    </p>
+   <hr>
+   <h3 align="left">Here are my stats:</h3>
+   
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishmeister09&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p> 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fishmeister09&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" /></p>
+
 
