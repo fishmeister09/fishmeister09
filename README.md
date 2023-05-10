@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fishmeister09
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Front-End Projects
+- 👀 I’m interested in (anything that has to do with programming)
 - 📫 How to reach me arjunsethi33@gmail.com
 
 <!-- LANGUAGES AND TOOLS -->
