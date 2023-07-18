@@ -24,6 +24,5 @@
    <h3 align="left">Here are my stats:</h3>
    
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishmeister09&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p> 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fishmeister09&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spandita-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="spandita-dwivedi" /> </p>
 
